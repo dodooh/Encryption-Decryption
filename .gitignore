@@ -1,0 +1,75 @@
+# Project exclude paths
+/.gradle/
+/Encryption-Decryption/task/build/
+/Encryption-Decryption/task/out/
+/Encryption-Decryption/task/out/production/classes/
+/Problems/Account/out/
+/Problems/Account/out/production/classes/
+/Problems/Account Service/out/
+/Problems/Account Service/out/production/classes/
+/Problems/Advanced calculator/out/
+/Problems/Advanced calculator/out/production/classes/
+/Problems/Bank account/out/
+/Problems/Bank account/out/production/classes/
+/Problems/Book/out/
+/Problems/Book/out/production/classes/
+/Problems/Burger store/out/
+/Problems/Burger store/out/production/classes/
+/Problems/Clock factory/out/
+/Problems/Clock factory/out/production/classes/
+/Problems/Compact strings with AsciiCharSequence/out/
+/Problems/Compact strings with AsciiCharSequence/out/production/classes/
+/Problems/Complex/out/
+/Problems/Complex/out/production/classes/
+/Problems/Converting and multiplying/out/
+/Problems/Converting and multiplying/out/production/classes/
+/Problems/Create an euphonious word/out/
+/Problems/Create an euphonious word/out/production/classes/
+/Problems/Employee/out/
+/Problems/Employee/out/production/classes/
+/Problems/Employees/out/
+/Problems/Employees/out/production/classes/
+/Problems/Find mistake/out/
+/Problems/Find mistake/out/production/classes/
+/Problems/Getting the fullname/out/
+/Problems/Getting the fullname/out/production/classes/
+/Problems/IntBinaryOperation/out/
+/Problems/IntBinaryOperation/out/production/classes/
+/Problems/Laptop store/out/
+/Problems/Laptop store/out/production/classes/
+/Problems/Max and Min/out/
+/Problems/Max and Min/out/production/classes/
+/Problems/Motor static factory/out/
+/Problems/Motor static factory/out/production/classes/
+/Problems/Mutable geometric shapes/out/
+/Problems/Mutable geometric shapes/out/production/classes/
+/Problems/Parameters and their values/out/
+/Problems/Parameters and their values/out/production/classes/
+/Problems/Phone/out/
+/Problems/Phone/out/production/classes/
+/Problems/Pick your team/out/
+/Problems/Pick your team/out/production/classes/
+/Problems/Publication and its subclasses/out/
+/Problems/Publication and its subclasses/out/production/classes/
+/Problems/Publications/out/
+/Problems/Publications/out/production/classes/
+/Problems/Robot/out/
+/Problems/Robot/out/production/classes/
+/Problems/Robot factory/out/
+/Problems/Robot factory/out/production/classes/
+/Problems/Shape hierarchy/out/
+/Problems/Shape hierarchy/out/production/classes/
+/Problems/Static factory methods for Time/out/
+/Problems/Static factory methods for Time/out/production/classes/
+/Problems/Template Method/out/
+/Problems/Template Method/out/production/classes/
+/Problems/Template Method (1)/out/
+/Problems/Template Method (1)/out/production/classes/
+/Problems/The index of an argument/out/
+/Problems/The index of an argument/out/production/classes/
+/Problems/Time/out/
+/Problems/Time/out/production/classes/
+/Problems/Triples/out/
+/Problems/Triples/out/production/classes/
+/Problems/Users and WebSites/out/
+/Problems/Users and WebSites/out/production/classes/

@@ -1,0 +1,16 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    class AsciiCharSequence /* extends/implements */ {
+        // implementation
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/3082
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/3082">JetBrains
+    Academy</a></html>
+  time: Thu, 16 Jul 2020 17:17:29 UTC
+record: -1

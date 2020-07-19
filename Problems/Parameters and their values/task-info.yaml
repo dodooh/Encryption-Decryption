@@ -1,0 +1,19 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    class Problem {
+
+        public static void main(String[] args) {
+            // Write your code here
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/3336
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/3336">JetBrains
+    Academy</a></html>
+  time: Fri, 17 Jul 2020 14:19:38 UTC
+record: -1

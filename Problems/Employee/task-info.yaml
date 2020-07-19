@@ -1,0 +1,19 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    class Employee {
+
+        String name;
+        int salary;
+        String address;
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/3006
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/3006">JetBrains
+    Academy</a></html>
+  time: Tue, 14 Jul 2020 08:50:40 UTC
+record: -1
